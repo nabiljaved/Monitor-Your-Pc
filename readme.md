@@ -1,4 +1,4 @@
-# ImageShrink
+# Monitor Your Pc (Sys Top)
 
 A desktop app built on Electron to Monitor your PC
 
